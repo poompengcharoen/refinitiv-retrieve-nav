@@ -1,0 +1,9 @@
+{
+  "name": "refinitiv-retrieve-nav",
+  "version": "1.0.0",
+  "main": "yourfile.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
